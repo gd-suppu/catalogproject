@@ -1,4 +1,4 @@
-package com.catalog.catalogproject.data;
+package com.catalog.catalogproject;
 
 import jakarta.persistence.*;
 import lombok.*;
